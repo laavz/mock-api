@@ -11,7 +11,7 @@
     "age": "123",
     "loc": "TVPM"
   }],
-  "offfers": [{
+  "offers": [{
   "id": "02-DB-SL",
   "version": "",
   "href": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOffering/02-DB-SL",
