@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "user": [{
+    "name": "Jijo",
+    "email": "jijo@abc.com",
+    "age": "123",
+    "loc": "TVPM"
+  }],
+  "offfers": [{
+  "id": "02-DB-SL",
+  "version": "",
+  "href": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOffering/02-DB-SL",
+  "name": "Database Software License",
+  "description": "software license schema",
+  "lastUpdate": "2019-01-10T07:46:46.755Z",
+  "lifecycleStatus": "Design",
+  "@type": "Root Item Class",
+  "@baseType": "ProductOffering",
+  "@schemaLocation": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOfferingSchemaStore/objects/Root Item Class",
+  "isSellable": null,
+  "organizationId": "204",
+  "itemClass": "Root Item Class",
+  "longDescription": null,
+  "approvalStatusValue": "Approved",
+  "primaryUOMValue": "Each",
+  "validFor": {
+    "startDateTime": null,
+    "endDateTime": null
+  }
+}, {
+  "id": "02-DB-SL",
+  "version": "",
+  "href": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOffering/02-DB-SL",
+  "name": "Database Software License",
+  "description": "software license schema",
+  "lastUpdate": "2019-01-10T07:46:46.755Z",
+  "lifecycleStatus": "Design",
+  "@type": "Root Item Class",
+  "@baseType": "ProductOffering",
+  "@schemaLocation": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOfferingSchemaStore/objects/Root Item Class",
+  "isSellable": null,
+  "organizationId": "204",
+  "itemClass": "Root Item Class",
+  "longDescription": null,
+  "approvalStatusValue": "Approved",
+  "primaryUOMValue": "Each",
+  "validFor": {
+    "startDateTime": null,
+    "endDateTime": null
+  }
+}, {
+  "id": "02-DB-SL",
+  "version": "",
+  "href": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOffering/02-DB-SL",
+  "name": "Bundled offer",
+  "description": "software license schema",
+  "lastUpdate": "2019-01-10T07:46:46.755Z",
+  "lifecycleStatus": "Design",
+  "@type": "Root Item Class",
+  "@baseType": "ProductOffering",
+  "@schemaLocation": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOfferingSchemaStore/objects/Root Item Class",
+  "isSellable": null,
+  "organizationId": "204",
+  "itemClass": "Root Item Class",
+  "longDescription": null,
+  "approvalStatusValue": "Approved",
+  "primaryUOMValue": "Each",
+  "validFor": {
+      "startDateTime": null,
+      "endDateTime": null
+  }
+}, {
+  "id": "02-DB-SL",
+  "version": "",
+  "href": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOffering/02-DB-SL",
+  "name": "Oracle DBMS",
+  "description": "software license schema",
+  "lastUpdate": "2019-01-10T07:46:46.755Z",
+  "lifecycleStatus": "Design",
+  "@type": "Root Item Class",
+  "@baseType": "ProductOffering",
+  "@schemaLocation": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOfferingSchemaStore/objects/Root Item Class",
+  "isSellable": null,
+  "organizationId": "204",
+  "itemClass": "Root Item Class",
+  "longDescription": null,
+  "approvalStatusValue": "Approved",
+  "primaryUOMValue": "Each",
+  "validFor": {
+      "startDateTime": null,
+      "endDateTime": null
+  }
+}, {
+  "id": "02-DB-SL",
+  "version": "",
+  "href": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOffering/02-DB-SL",
+  "name": "Database Software License",
+  "description": "software license schema",
+  "lastUpdate": "2019-01-10T07:46:46.755Z",
+  "lifecycleStatus": "Design",
+  "@type": "Root Item Class",
+  "@baseType": "ProductOffering",
+  "@schemaLocation": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOfferingSchemaStore/objects/Root Item Class",
+  "isSellable": null,
+  "organizationId": "204",
+  "itemClass": "Root Item Class",
+  "longDescription": null,
+  "approvalStatusValue": "Approved",
+  "primaryUOMValue": "Each",
+  "validFor": {
+      "startDateTime": null,
+      "endDateTime": null
+  }
+}, {
+  "id": "02-DB-SL",
+  "version": "",
+  "href": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOffering/02-DB-SL",
+  "name": "Promotion offer",
+  "description": "software license schema",
+  "lastUpdate": "2019-01-10T07:46:46.755Z",
+  "lifecycleStatus": "Design",
+  "@type": "Root Item Class",
+  "@baseType": "ProductOffering",
+  "@schemaLocation": "http://slc12eks.us.oracle.com:7777/mobile/custom/catalogManagement/productOfferingSchemaStore/objects/Root Item Class",
+  "isSellable": null,
+  "organizationId": "204",
+  "itemClass": "Root Item Class",
+  "longDescription": null,
+  "approvalStatusValue": "Approved",
+  "primaryUOMValue": "Each",
+  "validFor": {
+      "startDateTime": null,
+      "endDateTime": null
+  }
+}]
+}
